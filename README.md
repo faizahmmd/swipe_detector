@@ -70,10 +70,10 @@ Please Refer to [API documentation](https://pub.dev/documentation/swipe_detector
 
 | Property | Type | Description | Default Value |
 |-|:-:|-|:-:|
-| onSwipeUp | `Function` | to do when swipe |  |
-| onSwipeDown | `Function` | to do when swipe |  |
-| onSwipeLeft | `Function` | to do when swipe |  |
-| onSwipeRight | `Function` | to do when swipe |  |
+| onSwipeUp | `Function` | to do when swipe upwards|  |
+| onSwipeDown | `Function` | to do when swipe downwards|  |
+| onSwipeLeft | `Function` | to do when swipe left|  |
+| onSwipeRight | `Function` | to do when swipe right|  |
 | verticalMinDisplacement | `double` | min displacement in vertical direction to consider as swipe. | 100 |
 | verticalMinVelocity | `double` | min velocity in vertical direction to consider as swipe. | 300 |
 | horizontalMinDisplacement | `double` | min displacement in horizontal direction to consider as swipe. | 100 |
