@@ -1,7 +1,7 @@
 # swipe_detector
 
 <p align="center">
-  <strong>Swipe Detector</strong> is flutter package to detect swipe direction whether it downwards, upwards, lest or right.
+  <strong>Swipe Detector</strong> is flutter package to detect swipe direction whether it is downwards, upwards, left or right.
 </p>
 
 # Table of contents
